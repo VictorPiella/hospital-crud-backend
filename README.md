@@ -1,1 +1,7 @@
-hospital-crud-backend
+# AdminPro - Backend
+
+Recuerden ejecutar 
+
+```
+npm install
+```
